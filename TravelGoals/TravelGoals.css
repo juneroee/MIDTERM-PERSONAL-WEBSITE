@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+}
+ul{
+    list-style-type: none;
+    margin-left: -40px;
+}
+li{
+    margin-bottom: 10px;
+}
+a{
+    font-size: 24px;
+    color: #ffffff;
+    font-family:  Courier, 'Courier New', monospace;
+}
+a:hover{
+    font-size: 26px;
+    background-color: #adc797;
+}
+h1{
+    font-family: Verdana, Tahoma, 'Segoe UI', Geneva, sans-serif
+}
+p{
+    font-size: 20px;
+}
+#welcome{
+    width: 1420px;
+    height: 790px;
+    background-color: rgb(189, 171, 171);
+}
+.box{
+    width: 710px;
+    height: 395px;
+    float: left;
+    
+}
+#firstbox{
+    background-color: #161616;
+}
+#secondbox{
+    background-image: url("IMAGES/airport.jpg");
+    background-size: cover;
+}
+#thirdbox{
+    background-image: url("IMAGES/airplane.webp");
+    background-size: cover;
+}
+#fourthbox{
+    background-color:  #161616;
+}
+#fifthbox{
+    background-color:  #161616;
+}
+#sixthbox{
+    background-image: url("IMAGES/maldives.jpg");
+    background-size: cover;
+}
+#seventhbox{
+    background-image: url("IMAGES/newyork.jpg");
+    background-size: cover;
+}
+#eighthbox{
+    background-color:  #161616;
+}
+#ninthbox{
+    background-color:  #161616;
+}
+#tenthbox{
+    background-image: url("IMAGES/niagara.jpg");
+    background-size: cover;
+}
+#eleventhbox{
+    background-image: url("IMAGES/tokyo.jpg");
+    background-size: cover;
+}
+#twelvethbox{
+    background-color:  #161616;
+}
+#thirteenthbox{
+    background-color:  #161616;
+}
+#fourteenthbox{
+    background-image: url("IMAGES/canyon.webp");
+    background-size: cover;
+}
+#fifteenthbox{
+    background-image: url("IMAGES/santorini.webp");
+    background-size: cover;
+}
+#sixteenthbox{
+    background-color:  #161616;
+}
+#seventeenthbox{
+    background-color:  #161616;
+}
+#eightteenthbox{
+    background-image: url("IMAGES/palawan.jpg");
+    background-size: cover;
+}
+#nineteenthbox{
+    background-image: url("IMAGES/batanes.webp");
+    background-size: cover;
+}
+#twentythbox{
+    background-color:  #161616;
+}
+

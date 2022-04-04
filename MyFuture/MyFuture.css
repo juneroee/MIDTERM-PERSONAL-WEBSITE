@@ -1,0 +1,102 @@
+body{
+    background-color: #ffffff;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 45px;
+}
+h3{
+    font-family: Tahoma,'Segoe UI', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+.header{
+    background-color: #1f1f1f;
+    width: 1415px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.header a{
+    color:#fafafa;
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+} 
+.header a:hover{
+    font-size: 25px;
+    background-color: #e0f1df;
+    color: #1f1f1f;
+}
+.timeline a{
+    font-family:  Courier, 'Courier New', monospace;
+    font-size: 22px;
+    color: #1f1f1f;
+}
+.timeline a:hover{
+    font-size: 25px;
+    background-color: #8b7e7e;
+}
+.box{
+    float: left;
+}
+.container{
+    
+    width: 1415px;
+    height: 600px;
+    border-bottom: 3px solid black;
+}
+#firstBox{
+    height: 600px;
+    
+}
+#secondBox{
+    width: 514px;
+    height: 600px;
+    background-image: url("IMAGES/future.jpg");
+    background-size: contain;
+    border-right:1px solid black ;
+}
+#clockImg{
+    width: 900px;
+}
+.timeline{
+    border: 1px solid black;
+    width: 1413px;
+    height: 800px;
+}
+.caption{
+    padding: 30px;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 25px;
+    border-radius: 100px;
+    background-color: #eeeeee;
+}
+#graduate{
+    background-image: url("IMAGES/graduate.jpg");
+    background-size: cover;
+}
+#programmer{
+    background-image: url("IMAGES/programmer.jpg");
+    background-size: cover;
+}
+#save{
+    background-image: url("IMAGES/money.jpg");
+    background-size: cover;
+}
+#business{
+    background-image: url("IMAGES/business.jpg");
+    background-size: cover;
+}
+#travel{
+    background-image: url("IMAGES/travel.jpg");
+    background-size: cover;
+}
+#family{
+    background-image: url("IMAGES/fam.jpg");
+    background-size: cover;
+}
+#retire{
+    background-image: url("IMAGES/retire.webp");
+    background-size: cover;
+}
+
+

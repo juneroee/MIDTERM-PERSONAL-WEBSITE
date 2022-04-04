@@ -1,0 +1,229 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+p{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #242323;
+}
+a:hover{
+    font-size: 24px;
+    background-color: #f5e2ca;
+
+}
+#wholeDiv{
+    width: 1423px;
+    height: 800px;   
+}
+#welcome{
+    width: 400px;
+    height: 400px;
+    float: left;
+    background-color: #eeeeee;
+
+    background-image:url("IMAGES/list.jpg");
+    background-size: cover;
+}
+.bucketlist{
+    width: 341px;
+    height: 200px;
+    float: left;
+    background-color: #eeeeee;
+}
+#skydive{
+    background-image: url("IMAGES/skydive.png");
+    background-size: cover;
+}
+#skydiveTxt{
+    visibility: hidden;
+}
+#skydive:hover #skydiveTxt{
+    visibility: visible;
+    background-color: #7fffd4;
+    display: inline;
+}
+#friends{
+    background-image: url("IMAGES/friends.webp");
+    background-size: cover;
+}
+#friendsTxt{
+    visibility: hidden;
+}
+#friends:hover #friendsTxt{
+    visibility: visible;
+    background-color: #7fffd4;
+    display: inline;
+}
+#coachella{
+    background-image: url("IMAGES/coachella.jpg");
+    background-size: cover;
+}
+#coachellaTxt{
+    visibility: hidden;
+}
+#coachella:hover #coachellaTxt{
+    visibility: visible;
+    background-color: #7fffd4;
+    display: inline;
+}
+#blackpink{
+    background-image: url("IMAGES/blackpink.jpg");
+    background-size: cover;
+}
+#blackpinkTxt{
+    visibility: hidden;
+}
+#blackpink:hover #blackpinkTxt{
+    visibility: visible;
+    background-color: #7fffd4;
+    display: inline;
+}
+#aurora{
+    background-image: url("IMAGES/aurora.jpg");
+    background-size: cover;
+}
+#auroraTxt{
+    visibility: hidden;
+}
+#aurora:hover #auroraTxt{
+    visibility: visible;
+    background-color: #7fffd4;
+    display: inline;
+}
+#vancamping{
+    background-image: url("IMAGES/vancamping.jpg");
+    background-size: cover;
+}
+#vancampingTxt{
+    visibility: hidden;
+}
+#vancamping:hover #vancampingTxt{
+    visibility: visible;
+    background-color: #7fffd4;
+    display: inline;
+}
+#apo{
+    background-image: url("IMAGES/apo.webp");
+    background-size: cover;
+}
+#apoTxt{
+    visibility: hidden;
+}
+#apo:hover #apoTxt{
+    visibility: visible;
+    background-color: #7fffd4;
+    display: inline;
+}
+#whaleshark{
+    background-image: url("IMAGES/whaleshark.jpg");
+    background-size: cover;
+}
+#whalesharkTxt{
+    visibility: hidden;
+}
+#whaleshark:hover #whalesharkTxt{
+    visibility: visible;
+    background-color: #7fffd4;
+    display: inline;
+}
+#bphouse{
+    background-image: url("IMAGES/blackpinkhouse.jpg");
+    background-size: cover;
+}
+#bphouseTxt{
+    visibility: hidden;
+}
+#bphouse:hover #bphouseTxt{
+    visibility: visible;
+    background-color: #7fffd4;
+    display: inline;
+}
+#snowboard{
+    background-image: url("IMAGES/snowboard.jpg");
+    background-size: cover;
+}
+#snowboardTxt{
+    visibility: hidden;
+}
+#snowboard:hover #snowboardTxt{
+    visibility: visible;
+    background-color: #7fffd4;
+    display: inline;
+}
+#surf{
+    background-image: url("IMAGES/surf.jpg");
+    background-size: cover;
+}
+#surfTxt{
+    visibility: hidden;
+}
+#surf:hover #surfTxt{
+    visibility: visible;
+    background-color: #7fffd4;
+    display: inline;
+}
+#santorini{
+    background-image: url("IMAGES/santorini.jpg");
+    background-size: cover;
+}
+#santoriniTxt{
+    visibility: hidden;
+}
+#santorini:hover #santoriniTxt{
+    visibility: visible;
+    background-color: #7fffd4;
+    display: inline;
+}
+#tomorrowland{
+    background-image: url("IMAGES/tomorrowland.jpg");
+    background-size: cover;
+}
+#tomoTxt{
+    visibility: hidden;
+}
+#tomorrowland:hover #tomoTxt{
+    visibility: visible;
+    background-color: #7fffd4;
+    display: inline;
+}
+#korea{
+    background-image: url("IMAGES/korea.webp");
+    background-size: cover;
+}
+#koreaTxt{
+    visibility: hidden;
+}
+#korea:hover #koreaTxt{
+    visibility: visible;
+    background-color: #7fffd4;
+    display: inline;
+}
+#nba{
+    background-image: url("IMAGES/nba.jpg");
+    background-size: cover;
+}
+#nbaTxt{
+    visibility: hidden;
+}
+#nba:hover #nbaTxt{
+    visibility: visible;
+    background-color: #7fffd4;
+    display: inline;
+}
+#bungee{
+    background-image: url("IMAGES/bungee.webp");
+    background-size: cover;
+}
+#bungeeTxt{
+    visibility: hidden;
+}
+#bungee:hover #bungeeTxt{
+    visibility: visible;
+    background-color: #7fffd4;
+    display: inline;
+}
